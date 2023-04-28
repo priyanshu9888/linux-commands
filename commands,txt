@@ -1,0 +1,91 @@
+    File and directory management:
+        ls - list files and directories in the current directory.
+        cd - change to a different directory.
+        mkdir - create a new directory.
+        rmdir - remove a directory.
+        cp - copy a file or directory.
+        mv - move or rename a file or directory.
+        rm - remove a file.
+
+    Text manipulation:
+        cat - display the contents of a file.
+        less - view a file one screen at a time.
+        grep - search for a pattern in a file.
+        sed - stream editor for modifying files.
+        awk - pattern scanning and processing language.
+
+    System information:
+        uname - print system information.
+        top - display Linux processes.
+        df - display disk usage statistics.
+        free - display memory usage statistics.
+        ps - display information about running processes.
+
+    Networking:
+        ping - test network connectivity.
+        traceroute - display the path packets take through the network.
+        netstat - display network connections.
+        ifconfig - configure network interfaces.
+
+    User management:
+        useradd - add a new user.
+        passwd - change a user's password.
+        chown - change the owner of a file or directory.
+        chgrp - change the group of a file or directory.
+        
+            Process management:
+        kill - send a signal to a process to terminate it.
+        pkill - send a signal to one or more processes based on name.
+        killall - send a signal to all processes with a given name.
+        ps aux - list all running processes.
+
+    System administration:
+        sudo - execute a command with superuser privileges.
+        su - switch to another user account.
+        systemctl - manage system services.
+        journalctl - view system log files.
+
+    Compression and archiving:
+        tar - create or extract a tar archive.
+        gzip - compress or decompress files using gzip.
+        bzip2 - compress or decompress files using bzip2.
+        zip - create or extract a zip archive.
+
+    File permission management:
+        chmod - change file permissions.
+        chattr - change file attributes.
+        umask - set the default file permission mask.
+
+    Package management:
+        apt - command-line interface for package management on Debian-based systems.
+        yum - command-line interface for package management on Red Hat-based systems.
+        dnf - package manager for Fedora and CentOS systems.
+        
+        
+            Networking:
+        ssh - secure shell client for remote login.
+        scp - secure copy for copying files between hosts.
+        curl - command-line tool for transferring data over various protocols.
+        wget - non-interactive network downloader.
+
+    Text editors:
+        nano - a simple text editor for the terminal.
+        vi or vim - a powerful text editor for the terminal.
+        emacs - a text editor with many features.
+
+    File searching:
+        find - search for files and directories based on various criteria.
+        locate - find files by name quickly.
+        grep - search for a pattern in files.
+
+    System monitoring and debugging:
+        htop - an interactive process viewer and system monitor.
+        strace - trace system calls and signals.
+        lsof - list open files and processes that use them.
+        tcpdump - capture network traffic and display it on the terminal.
+
+    Miscellaneous:
+        history - display a list of commands previously executed.
+        cal - display a calendar for the current month.
+        date - display or set the system date and time.
+        alias - create a shortcut for a command or a series of commands.
